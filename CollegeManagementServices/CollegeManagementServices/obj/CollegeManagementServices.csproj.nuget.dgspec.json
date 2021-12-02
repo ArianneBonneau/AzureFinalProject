@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mihaj\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj": {}
+    "C:\\Users\\Adam\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mihaj\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj": {
+    "C:\\Users\\Adam\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mihaj\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
+        "projectUniqueName": "C:\\Users\\Adam\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
         "projectName": "CollegeManagementServices",
-        "projectPath": "C:\\Users\\mihaj\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
-        "packagesPath": "C:\\Users\\mihaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mihaj\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\obj\\",
+        "projectPath": "C:\\Users\\Adam\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
+        "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adam\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\mihaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
