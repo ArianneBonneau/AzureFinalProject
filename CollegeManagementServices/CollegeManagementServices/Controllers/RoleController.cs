@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -15,7 +16,8 @@ namespace CollegeManagementServices.Controllers
         {
             _roleManager = roleManager;
         }
-        
+
+        [Authorize(Roles = "Staff")]
         public IActionResult Index()
         {
             var roles = _roleManager.Roles.ToList();
