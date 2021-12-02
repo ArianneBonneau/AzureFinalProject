@@ -201,3 +201,5 @@ C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagement
 C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\Staff\Index.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
