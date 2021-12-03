@@ -10,7 +10,7 @@ namespace CollegeManagementServices.Controllers
 {
     public class RoleController : Controller
     {
-        RoleManager<IdentityRole> _roleManager;
+        readonly RoleManager<IdentityRole> _roleManager;
         
         public RoleController(RoleManager<IdentityRole> roleManager)
         {

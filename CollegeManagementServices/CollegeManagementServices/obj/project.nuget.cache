@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CBExFc6gkMWP1jnM7JfrqpzM2f97dju+G1ePy3PYwrXfOrE+S1hfHzNoY+qApWnNZthU26XkD891kl2tb66jqQ==",
+  "dgSpecHash": "IpnJQzb6yzKvFgmdFJsDyXF50/X3tApC624Txi8zN8m7GLOReuvEvbN5CXZqtlsF6HdWBlihzdT2GSrggldW1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adam\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
+  "projectFilePath": "C:\\Users\\Adam\\OneDrive\\École (CEGEP)\\Session 5\\Azure for SQL Developers wit ASAP.NET and MVC\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.21\\microsoft.aspnetcore.cryptography.internal.3.1.21.nupkg.sha512",
     "C:\\Users\\Adam\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.21\\microsoft.aspnetcore.cryptography.keyderivation.3.1.21.nupkg.sha512",
