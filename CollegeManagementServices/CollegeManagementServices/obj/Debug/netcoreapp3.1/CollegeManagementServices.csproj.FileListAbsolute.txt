@@ -824,3 +824,5 @@ C:\Users\Adam\OneDrive\École (CEGEP)\Session 5\Azure for SQL Developers wit ASA
 C:\Users\Adam\OneDrive\École (CEGEP)\Session 5\Azure for SQL Developers wit ASAP.NET and MVC\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\CollegeManagementServices.pdb
 C:\Users\Adam\OneDrive\École (CEGEP)\Session 5\Azure for SQL Developers wit ASAP.NET and MVC\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\CollegeManagementServices.genruntimeconfig.cache
 C:\Users\Adam\OneDrive\École (CEGEP)\Session 5\Azure for SQL Developers wit ASAP.NET and MVC\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\CollegeManagementServices.csproj.CopyComplete
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
