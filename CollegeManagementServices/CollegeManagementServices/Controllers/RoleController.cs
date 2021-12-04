@@ -17,7 +17,7 @@ namespace CollegeManagementServices.Controllers
             _roleManager = roleManager;
         }
 
-        [Authorize(Roles = "Staff")]
+       // [Authorize(Roles = "Staff")]
         public IActionResult Index()
         {
             var roles = _roleManager.Roles.ToList();

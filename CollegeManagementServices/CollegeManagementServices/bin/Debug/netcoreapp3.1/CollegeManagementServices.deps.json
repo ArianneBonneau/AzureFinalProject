@@ -37,6 +37,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.21",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.21",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.5",
+          "bootstrap": "5.1.2",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -308,6 +309,7 @@
           "CollegeManagementServices.dll": {}
         }
       },
+      "bootstrap/5.1.2": {},
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.21": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll": {
@@ -3927,6 +3929,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "bootstrap/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q67rt/zOhTjlvX0hER9Wao/EohLkwJwbD6wYNorI6e9q3bUz1ZzrZjaCCEpAktAuHzm3HjKeFqENf7bfuHXx3Q==",
+      "path": "bootstrap/5.1.2",
+      "hashPath": "bootstrap.5.1.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.21": {
       "type": "package",
