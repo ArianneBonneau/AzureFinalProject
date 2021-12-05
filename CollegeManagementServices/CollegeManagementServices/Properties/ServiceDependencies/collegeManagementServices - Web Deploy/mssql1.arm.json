@@ -53,7 +53,7 @@
               "location": "[parameters('resourceLocation')]",
               "name": "mydbcollegemanagementservices",
               "type": "Microsoft.Sql/servers",
-              "apiVersion": "2017-10-01-preview"
+              "apiVersion": "2019-06-01-preview"
             },
             {
               "sku": {
@@ -74,8 +74,5 @@
         }
       }
     }
-  ],
-  "metadata": {
-    "_dependencyType": "mssql.azure"
-  }
+  ]
 }
