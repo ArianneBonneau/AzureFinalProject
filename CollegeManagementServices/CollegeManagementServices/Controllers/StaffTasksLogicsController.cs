@@ -12,9 +12,9 @@ namespace CollegeManagementServices.Controllers
 {
     public class StaffTasksLogicsController : Controller
     {
-        private readonly CollegeManagementServicesContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public StaffTasksLogicsController(CollegeManagementServicesContext context)
+        public StaffTasksLogicsController(ApplicationDbContext context)
         {
             _context = context;
         }

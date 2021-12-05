@@ -9169,20 +9169,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Champlain\\.nuget\\packages\\": {}
+    "C:\\Users\\mihaj\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Champlain\\Desktop\\FinalAzure\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
+      "projectUniqueName": "C:\\Users\\mihaj\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
       "projectName": "CollegeManagementServices",
-      "projectPath": "C:\\Users\\Champlain\\Desktop\\FinalAzure\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
-      "packagesPath": "C:\\Users\\Champlain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Champlain\\Desktop\\FinalAzure\\CollegeManagementServices\\CollegeManagementServices\\obj\\",
+      "projectPath": "C:\\Users\\mihaj\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\CollegeManagementServices.csproj",
+      "packagesPath": "C:\\Users\\mihaj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mihaj\\dev\\AzureFinalProject\\CollegeManagementServices\\CollegeManagementServices\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Champlain\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mihaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -9256,7 +9264,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

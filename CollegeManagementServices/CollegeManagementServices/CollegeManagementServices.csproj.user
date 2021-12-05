@@ -18,5 +18,6 @@
     <WebStackScaffolding_DbContextTypeFullName>CollegeManagementServices.Data.CollegeManagementServicesContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\Properties\PublishProfiles\collegeManagementServices - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

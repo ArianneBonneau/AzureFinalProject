@@ -35,9 +35,6 @@ namespace CollegeManagementServices
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
-
-            services.AddDbContext<CollegeManagementServicesContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("CollegeManagementServicesContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1043,3 +1043,13 @@ C:\Users\Champlain\Desktop\FinalAzure\CollegeManagementServices\CollegeManagemen
 C:\Users\Champlain\Desktop\FinalAzure\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StudentTasksLogics\Details.cshtml.g.cs
 C:\Users\Champlain\Desktop\FinalAzure\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StudentTasksLogics\Edit.cshtml.g.cs
 C:\Users\Champlain\Desktop\FinalAzure\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StudentTasksLogics\Index.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StaffTasksLogics\Create.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StaffTasksLogics\Delete.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StaffTasksLogics\Details.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StaffTasksLogics\Edit.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StaffTasksLogics\Index.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StudentTasksLogics\Create.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StudentTasksLogics\Delete.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StudentTasksLogics\Details.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StudentTasksLogics\Edit.cshtml.g.cs
+C:\Users\mihaj\dev\AzureFinalProject\CollegeManagementServices\CollegeManagementServices\obj\Debug\netcoreapp3.1\Razor\Views\StudentTasksLogics\Index.cshtml.g.cs

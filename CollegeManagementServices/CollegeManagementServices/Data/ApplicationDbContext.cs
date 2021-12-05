@@ -12,6 +12,9 @@ namespace CollegeManagementServices.Data
             : base(options)
         {
         }
+        public DbSet<Models.StaffTasksLogic> StaffTasksLogics { get; set; }
+
+        public DbSet<Models.StudentTasksLogic> StudentTasksLogics { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
